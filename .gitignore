@@ -214,3 +214,9 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+target/classes/META-INF/MANIFEST.MF
+target/classes/META-INF/maven/Test_Ciklum/Test_Ciklum/pom.properties
+target/classes/META-INF/maven/Test_Ciklum/Test_Ciklum/pom.xml
+target/classes/com/game/Game$Shape.class
+target/classes/com/game/Game.class
+target/classes/com/game/GameTest.class

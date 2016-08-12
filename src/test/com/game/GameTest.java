@@ -14,6 +14,9 @@ import com.game.Game;
 import com.game.Game.Shape;
 
 public class GameTest {
+	/**
+	 * UNIT TEST for Game Class
+	 */
 	private Game game;
 
 	@Rule
